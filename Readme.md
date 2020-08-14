@@ -41,7 +41,7 @@ we call the function four times  to plot the graph in one plot.
 ![image](/capture4/PNG)
 * from the above graph we can conclude that after 6-10-20 the recovered cases increases than the active cases.
 
-![image](/capture5.PNg)
+![image](/capture5.PNG)
 * in this graph we can compare number of cases in diffrent aspects between diffrent countries.
 in the graph we can see that currently "US" has the more confirmed cases as well as it has the heighest number of deaths after that their is brazil and then india.
 
