@@ -10,7 +10,7 @@ diffrent countries are adopting diffrent methods to get prevented from the virus
 in this blog post i tried to analysis the covid-19 data with the help of data science so lets get jump into it .
 
 # source of the dataset :
-their are lots of data sources regarding COVID-19  on internet .One of the most widely and trusted dataset today is one provided by john hopkins university centre or systems science and engineering [JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
+their are lots of data sources regarding COVID-19  on internet .One of the most widely and trusted dataset today is one provided by john hopkins university centre of systems science and engineering [JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
 
 the seperate links to all csv files used in this blog:
 1. [time_series_covid19_confirmed_global.csv](https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv)
@@ -46,3 +46,5 @@ we call the function four times  to plot the graph in one plot.
 in the graph we can see that currently "US" has the more confirmed cases as well as it has the heighest number of deaths after that their is brazil and then india.
 
 -->now as their  is no official vaccine available right now , the only and the best way to handle the spread and decreaes the number of active cases is by slowing down the transmission rate .
+# licensing, acknowleadgements
+Must give credit to john hopkins university centre of systems science and engineering for the data i used in this blog .
